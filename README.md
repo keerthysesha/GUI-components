@@ -27,7 +27,7 @@ Step 7: Save and run the application.
 
 
 ## PROGRAM:
-
+```
 /*
 Program to print the text “GUIcomponent”.
 Developed by:Narra Nanditha
@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity
     }
 }
 
-
+```
 ## OUTPUT
 
 ![Screenshot (60)](https://github.com/KayyuruTharani/GUI-components/assets/142209319/8b0a0321-c0a9-41f0-853d-1c7bb50e58c8)
